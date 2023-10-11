@@ -7,9 +7,9 @@ Pizza party repo for intro to github lecture
 ![pijjza partyy](/Images/71AikV5vO6L._AC_UF1000%2C1000_QL80_.jpg "This is markdown with relative path!")
 
 
-#HEADING1
+# HEADING1
 
-##HEADING2
+## HEADING2
 
 **bold?**
 
